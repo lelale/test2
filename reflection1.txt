@@ -3,5 +3,12 @@ wonderful
 很好是的
 
 modification
+<<<<<<< HEAD
 add
 add3
+||||||| merged common ancestors
+add
+=======
+add
+add2
+>>>>>>> new-branch
